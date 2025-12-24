@@ -54,25 +54,25 @@ A full-stack website for a homemade soap business with:
 
 soap-store/
 ├─ app/
-│  ├─ page.tsx                      # Home
-│  ├─ products/
-│  │  ├─ page.tsx                   # Catalog
-│  │  └─ [id]/page.tsx              # Product detail
-│  ├─ cart/page.tsx
-│  ├─ checkout/page.tsx
-│  ├─ admin/page.tsx
-│  └─ api/
-│     ├─ products/route.ts          # CRUD endpoints
-│     └─ orders/route.ts            # Create orders
+│ ├─ page.tsx # Home
+│ ├─ products/
+│ │ ├─ page.tsx # Catalog
+│ │ └─ [id]/page.tsx # Product detail
+│ ├─ cart/page.tsx
+│ ├─ checkout/page.tsx
+│ ├─ admin/page.tsx
+│ └─ api/
+│ ├─ products/route.ts # CRUD endpoints
+│ └─ orders/route.ts # Create orders
 ├─ components/
-│  ├─ Navbar.tsx
-│  ├─ ProductCard.tsx
-│  ├─ CartItem.tsx
-│  └─ Footer.tsx
+│ ├─ Navbar.tsx
+│ ├─ ProductCard.tsx
+│ ├─ CartItem.tsx
+│ └─ Footer.tsx
 ├─ lib/
-│  ├─ db.ts                         # Mongo connection (cached)
-│  ├─ models.ts                     # Product + Order schemas
-│  └─ validators.ts                 # simple validation helpers
+│ ├─ db.ts # Mongo connection (cached)
+│ ├─ models.ts # Product + Order schemas
+│ └─ validators.ts # Validation helpers
 ├─ public/
 ├─ styles/
 ├─ .env.local.example

@@ -1,7 +1,7 @@
 # Homemade Soap Business Website (Full-Stack, Free Tier)
 
 https://www.figma.com/design/zQVS0s2MaBlkIj6NFsBLr8/Ayurvedic-Herbal-Soap--Community-?node-id=49-2&p=f&t=a6m5kduCcXetLKRl-0
-
+Example Website:https://deyga.in/collections/handmade-soap?srsltid=AfmBOorS6-WKZSBLVn2FaE7P6H-WquUPIH-IvScFlggqZmJwO1s_v34m
 A full-stack website for a homemade soap business with:
 - Product catalog
 - Product details page
